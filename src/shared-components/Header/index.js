@@ -2,7 +2,7 @@ import React from "react"
 import "./index.css"
 import logo from "../../images/instagram-logo.png";
 import searchIcon from "../../images/search-icon.png";
-import  {Menu}  from "../Menu"
+import { Menu } from "../Menu"
 
 export const Header = () => {
     return (

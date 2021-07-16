@@ -2,6 +2,7 @@ import React from "react";
 import "./index.css"
 
 export const ProfileIcon = (props) => {
+    /* destructure profile icon, giving 3 properties */
     const { iconSize, storyBorder, image } = props;
 
     /* get random number*/
